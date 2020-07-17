@@ -1,0 +1,44 @@
+====== Data Pelanggan ======
+Nama     : Abdul
+No. Hp   : 12
+Alamat   : Malangbong
+====== Data Pelanggan ======
+Nama     : Kadhafi
+No. Hp   : 12
+Alamat   : Bandung
+====== Data Pelanggan ======
+Nama     : xcsfds
+No. Hp   : sdfsdf
+Alamat   : sdfsdf
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
+====== Data Pelanggan ======
+Nama     : 
+No. Hp   : 
+Alamat   : 
